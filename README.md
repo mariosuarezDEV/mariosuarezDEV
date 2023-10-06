@@ -1,8 +1,8 @@
-- 👋 Hola, soy @mariosuarezDEV
-- 👀 Estoy interesado en el Desarrollo backend
-- 🌱 Actualmente estudio Redes y Servicios de computo
+- 👋 Hola, soy @mariosuarezDEV.
+- 👀 Soy estudiante de Redes y Servicios de Computo.
+- 🌱 Mi enfoque es ser un sysadmin.
 - 💞️ Me gusta colaborar en todo tipo de proyectos
-- 📫 Me gusta aprender muchos lenguajes de programación
+- 📫 Tengo conocimiento en SQL, Linux, Java, C++ y Bash
 
 <!---
 mariosuarezDEV/mariosuarezDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
