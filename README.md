@@ -1,4 +1,4 @@
-# Mario Suárez | Desarrollador de Software & Analista de Datos
+# Desarrollador de Software & Analista de Datos
 
 ## 👨‍💻 Sobre mí
 
