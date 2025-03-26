@@ -31,18 +31,3 @@ Plataforma especializada para la administración eficiente de ranchos y explotac
 
 ### DevOps & Herramientas
 ![Postman](https://skillicons.dev/icons?i=postman) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![Docker](https://skillicons.dev/icons?i=docker)
-
-## 📊 Servicios
-
-- **Desarrollo de Software a Medida**: Soluciones personalizadas que se adaptan perfectamente a las necesidades específicas de tu negocio.
-- **Análisis de Datos**: Transformación de datos en insights accionables para la toma de decisiones informadas.
-- **Optimización de Procesos**: Identificación y automatización de procesos para incrementar la eficiencia operativa.
-- **Consultoría Tecnológica**: Asesoramiento experto sobre implementación de tecnologías para impulsar el crecimiento empresarial.
-
-## 📬 Contacto
-
-¿Interesado en trabajar juntos? Contáctame para discutir cómo puedo ayudar a tu empresa a alcanzar sus objetivos tecnológicos.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tusperfildelinkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@dominio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariosuarezdev)
