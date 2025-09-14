@@ -1,6 +1,6 @@
 # 👨‍💻 Luis Mario Cervantes Suárez
 
-**Software Developer & Data Analytics**
+**Software Developer & Data Analyst**
 22 years old · Veracruz, México
 
 ---
