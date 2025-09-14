@@ -1,11 +1,11 @@
 # 👨‍💻 Luis Mario Cervantes Suárez
 
-**Desarrollador de Software & Analista de Datos**
-22 años · Veracruz, México
+**Software Developer & Data Analytics**
+22 years old · Veracruz, México
 
 ---
 
-## 📌 Sobre mí
+## 📌 About me
 
 Soy un **desarrollador de software con 2 años de experiencia** en la creación de **soluciones tecnológicas a la medida**, enfocado en el diseño de sistemas empresariales, aplicaciones web escalables y análisis de datos.
 
