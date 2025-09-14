@@ -7,7 +7,7 @@
 
 ## 📌 About me
 
-Soy un **desarrollador de software con 2 años de experiencia** en la creación de **soluciones tecnológicas a la medida**, enfocado en el diseño de sistemas empresariales, aplicaciones web escalables y análisis de datos.
+I'm a  **Software developer with 2 years with experience** in build **technologies solutions**, enfocado en el diseño de sistemas empresariales, aplicaciones web escalables y análisis de datos.
 
 Mi objetivo es **optimizar procesos, automatizar flujos de trabajo y crear plataformas sólidas** que aporten valor real a empresas y usuarios. Me apasiona aprender nuevas tecnologías, trabajar en proyectos retadores y transformar ideas en productos funcionales.
 
