@@ -1,48 +1,65 @@
-# 👨‍💻 Luis Mario Cervantes Suárez
+# 👨‍💻 Luis Mario Cervantes Suárez  
 
-**Software Developer & Data Analyst**
-22 years old · Veracruz, México
+![Banner](https://via.placeholder.com/1200x250.png?text=Luis+Mario+Cervantes+Su%C3%A1rez+-+Software+Developer+%26+Data+Analyst)  
 
----
-
-## 📌 About me
-
-I'm a  **Software developer with 2 years with experience** building **technologies solutions**, enfocado en el diseño de sistemas empresariales, aplicaciones web escalables y análisis de datos.
-
-Mi objetivo es **optimizar procesos, automatizar flujos de trabajo y crear plataformas sólidas** que aporten valor real a empresas y usuarios. Me apasiona aprender nuevas tecnologías, trabajar en proyectos retadores y transformar ideas en productos funcionales.
+**Software Developer & Data Analyst**  
+22 years old · Veracruz, Mexico  
 
 ---
 
-## 🚀 Proyectos Destacados
+## 📌 About Me  
 
-* **[Dynor RH](https://mariosuarezdev.github.io/dynorh/)** – Sistema integral de Recursos Humanos: administración de empleados, incidencias, contratos y nómina.
-* **[Ranch Manager](https://mariosuarezdev.github.io/Administracion-Rancho/)** – Plataforma de gestión ganadera: control de inventario, producción y operaciones en ranchos.
+I am a **software developer with 2 years of experience** building **technology-driven solutions**, focused on designing enterprise systems, scalable web applications, and data analysis.  
 
----
-
-## 🛠️ Tecnologías
-
-**Lenguajes & Frameworks**
-![Python](https://skillicons.dev/icons?i=py) ![Django](https://skillicons.dev/icons?i=django) ![Flask](https://skillicons.dev/icons?i=flask) ![JavaScript](https://skillicons.dev/icons?i=js) ![Astro](https://skillicons.dev/icons?i=astro) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-**Bases de Datos & Caches**
-![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)
-
-**Infraestructura & DevOps**
-![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![AWS](https://skillicons.dev/icons?i=aws) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+My goal is to **optimize processes, automate workflows, and build robust platforms** that deliver real value to businesses and users. I am passionate about learning new technologies, working on challenging projects, and turning ideas into functional products.  
 
 ---
 
-## 📈 Fortalezas
+## 🚀 Featured Projects  
 
-* Desarrollo de **sistemas de gestión empresarial (ERP, RRHH, LMS, CRM)**.
-* Integración de **bases de datos SQL y NoSQL** con arquitecturas escalables.
-* **Automatización y despliegue en contenedores** con Docker y orquestación en entornos Linux.
-* **Optimización de procesos** mediante análisis de datos y uso de Redis para caching.
-* Experiencia en **seguridad y despliegue en entornos corporativos** con AWS y Cloudflare.
+- **[Dynor RH](https://mariosuarezdev.github.io/dynorh/)** – Comprehensive Human Resources system: employee management, incidents, contracts, and payroll.  
+- **[Ranch Manager](https://mariosuarezdev.github.io/Administracion-Rancho/)** – Livestock management platform: inventory control, production tracking, and ranch operations.  
 
 ---
 
-## 🌎 Intereses
+## 🛠️ Tech Stack  
 
-Me interesa seguir creciendo como **ingeniero backend**, dominar la **arquitectura de software**, la **ciberseguridad** y el **análisis avanzado de datos**, para construir soluciones cada vez más sólidas y confiables.
+**Languages & Frameworks**  
+![Python](https://skillicons.dev/icons?i=py) ![Django](https://skillicons.dev/icons?i=django) ![Flask](https://skillicons.dev/icons?i=flask) ![JavaScript](https://skillicons.dev/icons?i=js) ![Astro](https://skillicons.dev/icons?i=astro) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
+
+**Databases & Caching**  
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)  
+
+**Infrastructure & DevOps**  
+![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![AWS](https://skillicons.dev/icons?i=aws) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)  
+
+---
+
+## 📈 Strengths  
+
+- Development of **enterprise management systems (ERP, HRM, LMS, CRM)**.  
+- Integration of **SQL and NoSQL databases** with scalable architectures.  
+- **Automation and containerized deployment** using Docker and Linux orchestration.  
+- **Process optimization** through data analysis and Redis-based caching.  
+- Experience in **security and corporate deployments** with AWS and Cloudflare.  
+
+---
+
+## 🌎 Interests  
+
+I aim to continue growing as a **backend engineer**, mastering **software architecture**, **cybersecurity**, and **advanced data analysis** to build increasingly solid, efficient, and reliable solutions.  
+
+---
+
+## 📫 Contact  
+
+- ✉️ **Email:** your.email@example.com  
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+- 🐙 **GitHub:** [github.com/mariosuarezdev](https://github.com/mariosuarezdev)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariosuarezdev&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosuarezdev&layout=compact&theme=tokyonight)  
