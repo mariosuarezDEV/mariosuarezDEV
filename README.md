@@ -46,4 +46,3 @@ My goal is to **optimize processes, automate workflows, and build solid platform
 ## 🌎 Interests
 
 I’m interested in continuing to grow as a **backend engineer**, mastering **software architecture**, **cybersecurity**, and **advanced data analysis** to build increasingly solid and reliable solutions.
-
