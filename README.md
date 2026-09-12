@@ -1,22 +1,15 @@
 # 👨‍💻 Luis Mario Cervantes Suárez
 
 **Software Developer & Data Analyst**  
-22 years old · Veracruz, Mexico  
+23 years old · Veracruz, Mexico  
 
 ---
 
 ## 📌 About me
 
-I’m a **Software Developer with 2 years of experience** building **technology solutions**, focused on the design of enterprise systems, scalable web applications, and data analysis.  
+I’m a **Software Developer with 3 years of experience** building **technology solutions**, focused on the design of enterprise systems, scalable web applications, and data analysis.  
 
 My goal is to **optimize processes, automate workflows, and build solid platforms** that provide real value to businesses and users. I’m passionate about learning new technologies, working on challenging projects, and turning ideas into functional products.  
-
----
-
-## 🚀 Featured Projects
-
-* **[Dynor RH](https://mariosuarezdev.github.io/dynorh/)** – Comprehensive Human Resources system: employee management, incidents, contracts, and payroll.  
-* **[Ranch Manager](https://mariosuarezdev.github.io/Administracion-Rancho/)** – Livestock management platform: inventory control, production, and ranch operations.  
 
 ---
 
